@@ -1,0 +1,150 @@
+# Russian translations for B6 package.
+# Copyright (C) 2022 THE B6'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the B6 package.
+# Automatically generated, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: B6 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: B6.gs:237
+msgid "running"
+msgstr "работа"
+
+#: B6.gs:241
+msgid "standby"
+msgstr "ожидание"
+
+#: B6.gs:247
+msgid "charging"
+msgstr "зарядка"
+
+#: B6.gs:249
+msgid "discharging"
+msgstr "разрядка"
+
+#: B6.gs:254 B6.gs:256
+msgid "discharge"
+msgstr "разряд"
+
+#: B6.gs:254 B6.gs:256
+msgid "charge"
+msgstr "заряд"
+
+#: B6.gs:315
+msgid "charge current"
+msgstr "ток заряда"
+
+#: B6.gs:317 B6.gs:324 B6.ui:507
+msgid "A"
+msgstr "А"
+
+#: B6.gs:319
+msgid "charge cell count"
+msgstr "заряжается банок"
+
+#: B6.gs:322
+msgid "discharge current"
+msgstr "ток разряда"
+
+#: B6.gs:326
+msgid "discharge cell count"
+msgstr "разряжается банок"
+
+#: B6.gs:329
+msgid "cells voltages"
+msgstr "напряжения банок"
+
+#: B6.gs:378 B6.gs:472
+msgid "file write error"
+msgstr "ошибка записи в файл"
+
+#: B6.gs:422
+msgid "enabled"
+msgstr "включено"
+
+#: B6.gs:462
+msgid "file create error"
+msgstr "ошибка создания файла"
+
+#: B6.ui:7
+msgid "B6"
+msgstr ""
+
+#: B6.ui:18
+msgid "messages"
+msgstr "сообщений"
+
+#: B6.ui:30
+msgid "mode"
+msgstr "режим"
+
+#: B6.ui:42
+msgid "running state"
+msgstr "состояние работы"
+
+#: B6.ui:54
+msgid "state"
+msgstr "состояние"
+
+#: B6.ui:156
+msgid "waste time"
+msgstr "время простоя"
+
+#: B6.ui:181 B6.ui:323 B6.ui:360
+msgid "min"
+msgstr "мин"
+
+#: B6.ui:193
+msgid "count"
+msgstr "количество"
+
+#: B6.ui:268
+msgid "capacity cut-off"
+msgstr "ограничение по ёмкости"
+
+#: B6.ui:290 B6.ui:397
+msgid "mA*h"
+msgstr "мА*ч"
+
+#: B6.ui:301
+msgid "safety timer"
+msgstr "ограничение по времени"
+
+#: B6.ui:335
+msgid "time"
+msgstr "время"
+
+#: B6.ui:372
+msgid "capacity"
+msgstr "ёмкость"
+
+#: B6.ui:409
+msgid "input voltage"
+msgstr "входное напряжение"
+
+#: B6.ui:433 B6.ui:470
+msgid "V"
+msgstr "В"
+
+#: B6.ui:445
+msgid "actual voltage"
+msgstr "фактическое напряжение"
+
+#: B6.ui:482
+msgid "actual current"
+msgstr "фактический ток"
+
+#: B6.ui:611
+msgid "save to CSV"
+msgstr "сохранять в CSV"

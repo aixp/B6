@@ -1,0 +1,12 @@
+grid {
+	margin: 5px;
+}
+
+grid label {
+	margin: 2.5px 5px;
+}
+
+#actual_current, #actual_voltage, #capacity, #time {
+	/* font-size: x-large; */
+	font-weight: bold;
+}

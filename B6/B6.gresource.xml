@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+	<gresource prefix="/">
+		<file preprocess="xml-stripblanks">B6.ui</file>
+		<file>B6.css</file>
+		<file preprocess="xml-stripblanks">B6.svg</file>
+	</gresource>
+</gresources>
